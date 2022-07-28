@@ -59,7 +59,7 @@ collection=db["users"]      # Collection Name
 # print(results)
 
 
-# test=db["test"]                     # Insert data in second table
+# test=db["test"]                     # Insert data in different collection
 # results=collection.find({})
 # for result in results:
 #     print(result)
